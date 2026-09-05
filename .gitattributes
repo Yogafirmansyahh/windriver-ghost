@@ -1,0 +1,14 @@
+# Generated on 2026-11-10
+# Project-specific overrides
+# Normalize line endings
+vendor/* linguist-vendored
+**/*.go linguist-detectable
+
+build/* linguist-vendored
+public/* linguist-vendored
+*.yaml linguist-detectable=false
+public/index.html linguist-vendored
+
+*.min.js linguist-generated
+
+# eof ab9d7689
