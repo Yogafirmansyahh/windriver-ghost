@@ -1,0 +1,5 @@
+*.exe
+*.out
+vendor/
+*.so
+go.sum
